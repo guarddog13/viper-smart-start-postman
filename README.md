@@ -65,7 +65,7 @@ Figured I would add step by step directions in getting this to work for those st
 12. Now click on Devices and the big blue send button. This will provide you with your deviceID. Copy it and paste it to the variable section. AGAIN MAKE SURE YOU ARE SAVING AFTER INPUTTING THE VARIABLE.
 
 
-13. Now you should be able to go Click on unlock, lock, status, and remote start. These should all work. If you get errors you're refresh token likely reset. Get a new one and try again. 
+13. Now you should be able to go Click on unlock, lock, status, and remote start. These should all work. If you get errors your refresh token likely reset. Get a new one and try again. 
 
 
 14. Install XAMPP. https://www.apachefriends.org/
