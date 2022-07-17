@@ -9,7 +9,7 @@ Figured I would add step by step directions in getting this to work for those st
 ![20220717_101649](https://user-images.githubusercontent.com/31947215/179404787-3cf69378-bacf-4210-9c16-567a0b726951.jpg)
 
 
-4. Open up Viper_postman.collection.json
+4. Within the github open up Viper_postman.collection.json
 ![20220717_101813](https://user-images.githubusercontent.com/31947215/179404901-df6d7ac9-b1ea-4a9c-a27b-7914e29438db.jpg)
 
 
