@@ -91,7 +91,8 @@ Figured I would add step by step directions in getting this to work for those st
 18. Create an empty txt file called viperToken.txt. Fill in the path where you put this empty file. VERY IMPORTANT...make sure to give this file write permissions... on linux this is ```sudo chmod 777 /viperToken.txt```
 
 
-![20220717_104505](https://user-images.githubusercontent.com/31947215/179405213-c57f79cb-68a5-4a95-8759-1e3451b42cc2.jpg)
+![20220717_113633](https://user-images.githubusercontent.com/31947215/179405762-bcb9cc80-d258-41b0-a2e6-5857f5692d98.jpg)
+
 
 
 
